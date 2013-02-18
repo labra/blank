@@ -1,5 +1,3 @@
-package test;
-
 import org.junit.*;
 
 import static org.fest.assertions.Assertions.*;
